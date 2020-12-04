@@ -1,0 +1,18 @@
+
+table {
+	column-gap: 400em;
+}
+
+th {
+	color:black;
+	font-weight:normal;
+}
+
+th:first-child {
+	font-weight:bold;
+	padding-right: 2em;
+  	color:red;
+}
+
+
+
